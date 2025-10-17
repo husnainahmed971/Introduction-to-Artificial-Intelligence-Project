@@ -18,6 +18,7 @@ The implementation is ideal for beginners who want to understand how classical c
 - **Hough Transform:** Identifies straight line segments that represent lane markings.
 -** Region of Interest (ROI):** Masks unnecessary parts of the image to focus only on the road area.
 - **Line Averaging:** Smoothens the left and right lane lines for a cleaner output.
+  
 **Note:** Techniques like Color Thresholding, Perspective Transform, Kalman Filter, or Deep Learning are not used in this version.
 
 # Requirements
