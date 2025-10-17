@@ -28,4 +28,5 @@ The implementation is ideal for beginners who want to understand how classical c
   
 # Author
 Husnain Ahmed
+
 Simplest implementation of Road Lane Detection using Python and OpenCV for educational purposes.
